@@ -1,0 +1,7 @@
+{
+    "port": 3000,
+    "mongoDb": {
+        "databaseName": "vigoo",
+        "connectionString": "mongodb://localhost:27017"
+    }
+}
